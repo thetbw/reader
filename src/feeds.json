@@ -1,13 +1,15 @@
 {
-  "日常生活": [
-    "https://xiamuyourenzhang.cn/feed.xml",
-    "https://www.linyufan.com/rss.xml",
-    "http://gojira.net/feed"
+  "博客": [
+    "http://feeds.feedburner.com/ruanyifeng"
   ],
   "技术博客": [
-    "https://zezeshe.com/feed"
-  ],
-  "blogs": [
-    "https://kevinfiol.com/atom.xml"
+    "https://w2solo.com/topics/feed",
+    "https://www.bmpi.dev/index.xml",
+    "https://www.zhangxinxu.com/wordpress/feed/",
+    "https://draveness.me/feed.xml",
+    "https://cjting.me/index.xml",
+    "https://kkocdko.site/feed.xml",
+    "https://www.yunyoujun.cn/atom.xml",
+    "https://moe.best/feed/"
   ]
 }
