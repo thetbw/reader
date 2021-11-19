@@ -2,7 +2,12 @@
   "博客": [
     "http://feeds.feedburner.com/ruanyifeng",
     "https://lutaonan.com/rss.xml",
-    "https://hunterx.xyz/atom.xml"
+    "https://hunterx.xyz/atom.xml",
+    "https://blog.dtz9.com/feed",
+    "http://www.geekpark.net/rss"
+  ],
+  "产品":[
+    "http://sspai.com/feed"
   ],
   "技术博客": [
     "https://w2solo.com/topics/feed",
