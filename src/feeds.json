@@ -17,7 +17,8 @@
     "https://cjting.me/index.xml",
     "https://kkocdko.site/feed.xml",
     "https://www.yunyoujun.cn/atom.xml",
-    "https://moe.best/feed/"
+    "https://moe.best/feed/",
+    ""
   ],
   "Java":[
     "https://feeds.feedblitz.com/baeldung&x=1"
